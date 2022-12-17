@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\bin\Debug\net6.0\HomeworkOneBlacatzAcademy.exe
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\bin\Debug\net6.0\HomeworkOneBlacatzAcademy.deps.json
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\bin\Debug\net6.0\HomeworkOneBlacatzAcademy.runtimeconfig.json
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\bin\Debug\net6.0\HomeworkOneBlacatzAcademy.dll
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\bin\Debug\net6.0\HomeworkOneBlacatzAcademy.pdb
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.dll
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\refint\HomeworkOneBlacatzAcademy.dll
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.pdb
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\HomeworkOneBlacatzAcademy.genruntimeconfig.cache
+C:\Users\User\source\repos\HomeworkOneBlacatzAcademy\HomeworkOneBlacatzAcademy\obj\Debug\net6.0\ref\HomeworkOneBlacatzAcademy.dll
